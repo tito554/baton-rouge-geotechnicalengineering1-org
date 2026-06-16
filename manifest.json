@@ -1,0 +1,20 @@
+{
+  "name": "Baton Rouge",
+  "short_name": "Baton Rouge",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#264653",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "en",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "description": "Professional geotechnical services in Baton Rouge, USA. Soil studies, testing and technical consulting.",
+  "id": "/baton-rouge-5600"
+}
